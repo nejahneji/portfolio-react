@@ -1,0 +1,38 @@
+
+.work-item > img {
+    width: 50%;
+    margin: 20px 0;
+    border-radius: 15px;
+}
+.work-item {
+    margin-top: 30px;
+    text-align: center;
+    justify-content: space-between;
+}
+.movie-app{
+    display: flex;
+    justify-content: center;
+    gap: 10%;
+}
+.movie-app img {
+    width: 40%;
+    margin: 20px 0;
+    border-radius: 15px;
+}
+.pizza-app{
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
+.pizza-app img {
+    width: 30%;
+    margin: 20px 0;
+    border-radius: 15px;
+}
+.pizza-app img:hover {transform: scale(1.2);}
+.movie-app img:hover{transform: scale(1.2);}
+.work-item > img:hover {
+transform: scale(1.2);
+}
+
+
