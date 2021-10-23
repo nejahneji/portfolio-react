@@ -1,8 +1,8 @@
 
 .work-item > img {
     width: 50%;
-    margin: 20px 0;
-    border-radius: 15px;
+    margin: 25px 0;
+    border-radius: 5px 15px;
 }
 .work-item {
     margin-top: 30px;
@@ -16,8 +16,8 @@
 }
 .movie-app img {
     width: 40%;
-    margin: 20px 0;
-    border-radius: 15px;
+    margin: 25px 0;
+    border-radius: 5px 15px;
 }
 .pizza-app{
     display: flex;
@@ -26,13 +26,13 @@
 }
 .pizza-app img {
     width: 30%;
-    margin: 20px 0;
-    border-radius: 15px;
+    margin: 25px 0;
+    border-radius: 5px 15px;
 }
-.pizza-app img:hover {transform: scale(1.2);}
-.movie-app img:hover{transform: scale(1.2);}
+.pizza-app img:hover {transform: scale(1.15);}
+.movie-app img:hover{transform: scale(1.15);}
 .work-item > img:hover {
-transform: scale(1.2);
+transform: scale(1.15);
 }
 
 

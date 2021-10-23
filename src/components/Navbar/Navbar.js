@@ -11,9 +11,6 @@ const Navbar = () => {
     if(window.innerWidth > 600 ){
       setOpen(true)
     } 
-    // else {
-    //   setOpen(false)
-    // }
   }
 
   useEffect(() => {

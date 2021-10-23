@@ -16,11 +16,14 @@
     width: 100px;
     height: 100px;
 }
-@media (max-width:500px){
+@media (max-width:620px){
     .skills{
-        flex-direction: column;
+        flex-direction: row;
+        flex-wrap: wrap;
+        
     }
     .skills-item{
         margin-top: 15px;
+        margin-left: 10px;
     }
 }
