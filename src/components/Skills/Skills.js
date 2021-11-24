@@ -59,9 +59,14 @@ const Skills = () => {
           <img src="git.ico" alt="" />
           <h4>git</h4>
         </div>
+        
         <div className="skills-item">
           <img src="github.ico" alt="" />
           <h4>github</h4>
+        </div>
+        <div className="skills-item">
+          <img src="postman.ico" alt="" />
+          <h4>postman</h4>
         </div>
         <div className="skills-item">
           <img src="vscode.ico" alt="" />
